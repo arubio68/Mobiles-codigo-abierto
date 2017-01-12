@@ -55,6 +55,8 @@ public class Estudiante extends Persona{
 				};
 			}
 			
+			
+			
 			String[] newCursos = new String[nc];
 			//otra forma de crear la matriz seria
 			// String[] newCursos=cursos.length>0?new String[cursos.length-1]:null; 

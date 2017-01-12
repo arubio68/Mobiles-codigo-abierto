@@ -62,7 +62,7 @@ public class Persona {
 	public void setDomicilio(String domicilio) {
 		this.domicilio = domicilio;
 	}
-	
+
 	
 	
 }
